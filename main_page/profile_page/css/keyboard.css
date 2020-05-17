@@ -1,0 +1,268 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+  /* width: 500px;
+  height: 500px; */
+  background: #FEA1A9;
+}
+
+img {
+	border-radius: 20px;
+}
+
+.container {
+  width: 1820;
+  height: 1200px;
+  /* border: solid blue 1px; */
+	padding: 40px;
+}
+
+.title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20pt;
+  margin: 30px;
+  margin-left: 50px;
+  size: 300px;
+  position: fixed;
+  top: 0;
+  color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  font-family: 'Manrope', sans-serif;
+  font-size: 14pt;
+  color: white;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+  margin: 20px;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 26px;
+  margin-right: 60px;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20pt;
+	padding-bottom: 80px;
+  size: 300px;
+  position: relative;
+  top: 0;
+  color: white;
+	font-weight: bold;
+}
+
+
+
+.dog {
+  height: 200px;
+}
+
+p {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 14pt;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 20px;
+	font-weight: bold;
+}
+
+p2 {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 12pt;
+  position: absolute;
+  margin-top: 260px;
+	margin-left: 10px;
+}
+
+p3 {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 12pt;
+  position: absolute;
+  margin-top: 295px;
+	margin-left: 10px;
+}
+
+p4 {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 12pt;
+  position: absolute;
+  margin-top: 345px;
+	margin-left: 10px;
+}
+
+.heart {
+	width: 44px;
+	margin-top: 160px;
+	margin-left: 195px;
+}
+
+.profile_container {
+  width: 1470px;
+  height: 900px;
+  /* border: solid red 4px; */
+	padding: 0px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 200px;
+}
+
+.boxc {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.c {
+  position: relative;
+  margin-top: 0px;
+}
+
+.boxd {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-left: 300px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.d {
+  position: relative;
+}
+
+.boxe {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-left: 600px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.e {
+  position: relative;
+
+}
+
+.boxf {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-left: 900px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.f {
+  position: relative;
+}
+
+.boxg {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-left: 1200px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.g {
+  position: relative;
+}
+
+.boxh {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-top: 470px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.h {
+  position: relative;
+}
+
+.boxo {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-top: 470px;
+	margin-left: 300px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.o {
+  position: relative;
+}
+
+.boxu {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-top: 470px;
+	margin-left: 600px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.u {
+  position: relative;
+}
+
+.boxp {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-top: 470px;
+	margin-left: 900px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.p {
+  position: relative;
+}
+
+.boxq {
+  position: absolute;
+  width: 240px;
+  height: 400px;
+  background: white;
+	margin-top: 470px;
+	margin-left: 1200px;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.q {
+  position: relative;
+}

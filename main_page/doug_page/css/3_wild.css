@@ -1,0 +1,129 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+  /* width: 500px;
+  height: 500px; */
+  background: #FEA1A9;
+}
+
+img {
+	border-radius: 20px;
+}
+
+.y2 {
+  position: relative;
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  padding-top: 24px;
+  font-size: 20pt;
+  color: white;
+  height: 55px;
+  width: 240px;
+  background: #F7D32E;
+  margin-left: 1200px;
+  margin-top: 95px;
+  text-align: center;
+	border-radius: 20px;
+}
+
+
+h4 {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 12pt;
+  position: relative;
+  margin-top: 0px;
+	font-weight: 800;
+	line-height: normal;
+}
+
+h3 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20pt;
+  position: relative;
+  color: white;
+	margin-top: 140px;
+	margin-left: 200px;
+}
+
+.title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20pt;
+  margin: 30px;
+  margin-left: 50px;
+  size: 300px;
+  position: fixed;
+  top: 0;
+  color: white;
+}
+
+h1 {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 36pt;
+  position: absolute;
+  margin-left: 450px;
+  margin-top: -460px;
+	font-weight: bold;
+}
+
+h2 {
+  font-family: 'Manrope', sans-serif;
+  color: black;
+  font-size: 12pt;
+  position: relative;
+  margin-top: 0px;
+	font-weight: 300;
+}
+
+.text_container {
+	height: 300px;
+	width: 430px;
+	margin-top: 80px;
+}
+
+.navbar {
+  overflow: hidden;
+  font-family: 'Manrope', sans-serif;
+  font-size: 14pt;
+  color: white;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+  margin: 20px;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 26px;
+  margin-right: 60px;
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  height: 980px;
+  /* border: solid blue 3px; */
+	padding: 30px;
+}
+
+.box {
+	width: 870px;
+	height: 455px;
+	margin-left: 200px;
+	margin-top: 95px;
+	position: absolute;
+	background: white;
+	padding: 40px;
+	border-radius: 20px;
+}
+
+.dog {
+	width: 400px;
+}
